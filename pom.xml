@@ -10,7 +10,7 @@
 	<url>http://com.mitchell.claim</url>
 	
 	<dependencies>
-		<!-- Web app -->
+		<!-- Web app more test -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
